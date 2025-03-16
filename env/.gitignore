@@ -9,3 +9,5 @@ lib/
 *.keras
 *.h5
 *.npy
+*.csv
+*.png
