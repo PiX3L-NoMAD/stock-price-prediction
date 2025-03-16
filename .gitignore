@@ -1,8 +1,7 @@
 __pycache__/
 .venv/
 .npylib/
-MY_FIRST_ML_PROJECT_ENV
-my_first_ml_project_env
+env/
 lib/python3.12/site-packages/clang/native/libclang.so
 lib/python3.12/site-packages/tensorflow/libtensorflow_framework.so.2
 lib/python3.12/site-packages/tensorflow/libtensorflow_cc.so.2
